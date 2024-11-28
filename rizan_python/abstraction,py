@@ -1,0 +1,19 @@
+# from abc import ABC,abstractmethod
+# class bahubali(ABC):
+#     def strength(self):
+#         pass
+# class kattappa(bahubali):
+#         def strength(self):
+#             print("strength level is 75/100")
+# class devasena(bahubali):
+#         def strength(self):
+#             print("strength level is 65/100")
+# class palvaldevan(bahubali):
+#         def strength(self):
+#             print("strength level is 89/100")
+# a = kattappa()
+# a.strength()
+# b = devasena()
+# b.strength()
+# c = palvaldevan()
+# c.strength()
